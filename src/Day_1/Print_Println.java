@@ -1,4 +1,4 @@
-package Day1;
+package Day_1;
 
 public class Print_Println {
 

@@ -6,7 +6,7 @@ public class pass_char_to_int {
 		m1('A');
 
 	}
-	
+	// Type Promotion
 	public static void m1(int ch) {
 		System.out.println(ch);// work because int= 4 bytes and char= 2 bytes so no data loss.
 	}
