@@ -4,11 +4,11 @@ public class Switch_Calculator {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter first Number: ");
+		System.out.print("Enter first Number: ");
 		int num1 = sc.nextInt();
-		System.out.println("Enter second Number: ");
+		System.out.print("Enter second Number: ");
 		int num2 = sc.nextInt();
-		System.out.println("Enter second Operator (+, -, *, /): ");
+		System.out.print("Enter second Operator (+, -, *, /): ");
 		char ch = sc.next().charAt(0);
 		switch(ch) {
 		case '+' :{

@@ -9,7 +9,7 @@ public class Switch {
 			System.out.println("Case 1");
 		}break;
 		
-		case 2:{
+		case 2,9:{					// we can also use multiple case values for a case.
 			System.out.println("Case 1");
 		}break;
 		
